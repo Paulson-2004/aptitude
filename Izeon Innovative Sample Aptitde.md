@@ -7,7 +7,9 @@ Here’s the **full step-by-step answer key with questions and solutions** group
 
 ### **Q1.**
 
-A can do a piece of work in 15 days, B in 20 days. If both work together for 4 days, how much work is left?
+“A” can do a work in 15 days and “B” in 20 days. If they work on it together for 4 days, then the fraction of 
+the work that is left is: 
+a) 1/4     b) 1/10     c) 7/15     d) 8/15
 
 **Solution:**
 
@@ -23,7 +25,9 @@ A can do a piece of work in 15 days, B in 20 days. If both work together for 4 d
 
 ### **Q2.**
 
-A can do a work in 6 days, B in 8 days, A+B+C do it in 3 days. If total payment = ₹3200, what is C’s share?
+.“A” alone can do a piece of work in 6 days and “B” alone in 8 days. “A” and “B” undertook to do it for 
+Rs.3200. With the help of “C”, they can complete the work in 3 days, how much is to be paid to “C”? 
+a) Rs. 375   b) Rs. 400   c) Rs. 600   d) Rs. 800
 
 **Solution:**
 
@@ -39,7 +43,9 @@ A can do a work in 6 days, B in 8 days, A+B+C do it in 3 days. If total payment 
 
 ### **Q3.**
 
-A can do in 4 hours, B+C in 3 hours, A+C in 2 hours. Find B’s time.
+"A" can do a piece of work in 4 hours, "B" and "C" can do it in 3 hours, while "A" and "C" together can do it 
+2 hours. How long will "B" alone take to do it? 
+a) 8 hours   b) 10 hours   c) 12 hours   d) 24 hours 
 
 **Solution:**
 
@@ -54,7 +60,9 @@ A can do in 4 hours, B+C in 3 hours, A+C in 2 hours. Find B’s time.
 
 ### **Q4.**
 
-A = B + C, A+B = 10 days, C = 50 days. Find B’s time.
+."A" can do a certain work in same time in which "B" and "C" together can do it. If "A" and "B" together 
+could do it in 10 days and "C" alone in 50 days, then "B" alone could do it in: 
+a) 15 days   b) 20 days   c) 25 days   d) 30 days 
 
 **Solution:**
 
@@ -71,7 +79,9 @@ A = B + C, A+B = 10 days, C = 50 days. Find B’s time.
 
 ### **Q5.**
 
-20 women = 16 days, 16 men = 15 days. Find ratio of men : women efficiency.
+.20 women can do a work in 16 days. 16 men can complete the same work in 15 days. What is the ratio 
+between the capacity of men and a woman? 
+a) 3 : 4   b) 4 : 3   c) 5 : 3   d) Data inadequate
 
 **Solution:**
 
@@ -87,7 +97,9 @@ A = B + C, A+B = 10 days, C = 50 days. Find B’s time.
 
 ### **Q6.**
 
-CP of 20 = SP of X. Profit 25%. Find X.
+.The cost price of 20 articles is the same as the selling price of X article. If the profit is 25%, then the value of 
+X is: 
+a) 15   b) 16   c) 18   d) 25
 
 **Solution:**
 
@@ -100,7 +112,8 @@ CP of 20 = SP of X. Profit 25%. Find X.
 
 ### **Q7.**
 
-6 for ₹1, find selling price to gain 20%.
+.Vendor brought toffees at 6 for a rupee. How many for a rupee must he be selling to gain 20%? 
+a) 3   b) 4   c) 5   d) 6 
 
 **Solution:**
 
@@ -114,7 +127,8 @@ CP of 20 = SP of X. Profit 25%. Find X.
 
 ### **Q8.**
 
-CP = ₹1400, loss 15%. Find SP.
+The man buys a cycle for Rs.1400 and sells it at a loss of 15%. What is the selling price of the cycle? 
+a) Rs. 1190   b) Rs. 1160   c) Rs. 1090   d) Rs. 1202
 
 **Solution:**
 
@@ -126,7 +140,9 @@ CP = ₹1400, loss 15%. Find SP.
 
 ### **Q9.**
 
-20 dozen at ₹375/dozen, sold at ₹33 each. Find profit %.
+.Ram purchased 20 dozens toys at the rate of Rs.375 per dozen. He sold each one of them at the rate of 
+Rs.33. what was his percentage profit? 
+a) 3.5   b) 4.5   c) 6.6   d) 5.6 
 
 **Solution:**
 
@@ -141,7 +157,8 @@ CP = ₹1400, loss 15%. Find SP.
 
 ### **Q10.**
 
-6 for ₹5, sold 5 for ₹6. Find profit %.
+Some articles were bought at 6 articles for Rs.5 and sold at 5 articles for Rs.6. Gain percent is: 
+a) 30%   b) 33 1/3%   c) 35%   d) 44%
 
 **Solution:**
 
@@ -154,7 +171,8 @@ CP = ₹1400, loss 15%. Find SP.
 
 ### **Q11.**
 
-SP of 17 balls = ₹720, loss = cost of 5 balls. Find CP per ball.
+On selling 17 balls at Rs.720, there is a loss equal to the cost of 5 balls. The cost price of a ball is: 
+a) Rs. 45   b) Rs. 50   c) Rs. 55   d) Rs. 60
 
 **Solution:**
 
@@ -168,7 +186,9 @@ SP of 17 balls = ₹720, loss = cost of 5 balls. Find CP per ball.
 
 ### **Q12.**
 
-SP = ₹18,700, loss = 15%. Find SP at 15% gain.
+.When a plot is sold for Rs.18,700, the owner loses 15%. At what price must that plot to be sold in order to 
+gain 15%? 
+a) Rs. 21,000   b) Rs. 22,500   c) Rs. 25,300   d) Rs. 25,800 
 
 **Solution:**
 
@@ -183,7 +203,8 @@ SP = ₹18,700, loss = 15%. Find SP at 15% gain.
 
 ### **Q13.**
 
-Cube root of 0.000216?
+The cube root of .000216 is: 
+a) .6   b) .06   c) 77   d) 87
 
 **Solution:**
 
@@ -196,7 +217,8 @@ Cube root of 0.000216?
 
 ### **Q14.**
 
-Least square divisible by 21, 36, 66?
+.The least period square, which is divisible by each of 21, 36 and 66 is: 
+a) 213444   b) 214344   c) 214434   d) 231444
 
 **Solution:**
 
@@ -209,7 +231,9 @@ Least square divisible by 21, 36, 66?
 
 ### **Q15.**
 
-₹59.29 collected, each gives paise = members. Find members.
+A group of students decided to collect as many paise from each member of the group as the number of 
+members. If the total collection amounts to be Rs.59.29, the number of members in the group is: 
+a) 57   b) 67   c) 77   d) 87 
 
 **Solution:**
 
@@ -222,7 +246,10 @@ Least square divisible by 21, 36, 66?
 
 ### **Q16.**
 
-Pipes fill in x, x−5, x−9 hrs. Together = 5 hrs. Find x.
+.A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank 
+at the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours 
+faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is: 
+a) 6 hours   b) 10 hours   c) 15 hours   d) 30 hours 
 
 **Solution:**
 
@@ -234,7 +261,9 @@ Pipes fill in x, x−5, x−9 hrs. Together = 5 hrs. Find x.
 
 ### **Q17.**
 
-A=x, B=x/2, C=x/4. Together=5 hrs. Find x.
+.A tank is filled in 5 hours by 3 pipes A, B and C. The pipe C is twice as fast as B and B is twice as fast as A. 
+How much time will pipe A alone take to fill the tank? 
+a) 35 hours   b) 25 hours   c) 20 hours   d) cannot be determined 
 
 **Solution:**
 
@@ -246,7 +275,10 @@ A=x, B=x/2, C=x/4. Together=5 hrs. Find x.
 
 ### **Q18.**
 
-A=x, B=x+6. Together=4 hrs. Find x.
+.Two pipes A and B together can fill a cistern in 4 hours. Had they been opened separately, then B would 
+have taken 6 hours more than A to fill the cistern. How much time will be taken by A to fill the cistern 
+separately? 
+a) 6 hours   b) 2 hours   c) 1 hours    d) 8 hours 
 
 **Solution:**
 
@@ -258,7 +290,9 @@ A=x, B=x+6. Together=4 hrs. Find x.
 
 ### **Q19.**
 
-A=20 mins, B=30 mins. Together time?
+Two pipes A and B can fill a tank in 20 and 30 minutes respectively. If both the pipes are used together, 
+how long will it take to fill the tank? 
+a) 25 mins   b) 15 mins   c) 12 mins   d) 50 mins
 
 **Solution:**
 
@@ -270,7 +304,9 @@ A=20 mins, B=30 mins. Together time?
 
 ### **Q20.**
 
-A=15 min, B=20 min. Both for 4 min, then B alone.
+Two pipes A and B can fill a tank in 15 minutes and 20 minutes respectively. Both the pipes are opened 
+together but after 4 minutes, pipe A is turned off. What is the total time required to fill the tank? 
+a) 10 mins 20 sec.   b) 11 mins 45 sec.   c) 12 mins 30 sec.  d) 14 mins 40 sec.
 
 **Solution:**
 
