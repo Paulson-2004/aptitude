@@ -31,11 +31,37 @@ a) Rs. 375   b) Rs. 400   c) Rs. 600   d) Rs. 800
 
 **Solution:**
 
-* A = 1/6, B = 1/8 ⇒ A+B = 7/24
-* A+B+C = 1/3
-* C = 1/3 − 7/24 = 1/24
-* Ratio A\:B\:C = 4:3:1
-* C’s share = 3200 × 1/8 = **₹400**
+Great question, Paulson 👍 Let’s break it carefully.
+
+We know:
+
+* A’s 1-day work = $\tfrac{1}{6}$
+* B’s 1-day work = $\tfrac{1}{8}$
+* Together: $\tfrac{1}{6} + \tfrac{1}{8} = \tfrac{7}{24}$
+* A+B+C = $\tfrac{1}{3}$
+* So C’s 1-day work = $\tfrac{1}{3} - \tfrac{7}{24} = \tfrac{1}{24}$
+
+### Step 1: Put them in whole number ratios
+
+LCM of denominators (6, 8, 24) = 24.
+
+* A = $\tfrac{1}{6} = \tfrac{4}{24}$
+* B = $\tfrac{1}{8} = \tfrac{3}{24}$
+* C = $\tfrac{1}{24} = \tfrac{1}{24}$
+
+So ratio of their work = **4 : 3 : 1**.
+
+### Step 2: Convert ratio to fractions of payment
+
+* Total ratio parts = 4+3+1 = 8
+* C’s share = $\tfrac{1}{8}$ of total payment.
+
+That’s where the **1/8** came from — it is **C’s ratio part over total ratio parts**, not directly from C’s work fraction of the whole job.
+
+### Step 3: Calculate payment
+
+$\tfrac{1}{8} \times 3200 = 400$.
+
 
 ✅ **Answer: b) ₹400**
 
