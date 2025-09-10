@@ -129,10 +129,48 @@ a) 15   b) 16   c) 18   d) 25
 
 **Solution:**
 
-* SP = 1.25 × CP
-* 20 = 1.25X ⇒ X = 16
+Let’s carefully verify step by step:
 
-✅ **Answer: b) 16**
+We are told:
+
+* Cost price (CP) of **20 articles** = Selling price (SP) of **X articles**.
+* Profit = 25% → so **SP = 1.25 × CP**.
+
+---
+
+### Step 1: Assume CP of 1 article = ₹1
+
+Then, CP of 20 articles = ₹20.
+
+### Step 2: Selling price relation
+
+Since profit = 25%,
+
+$$
+SP \, \text{of 1 article} = 1.25 × CP = 1.25 × 1 = ₹1.25
+$$
+
+So, SP of **X articles** = ₹1.25 × X.
+
+---
+
+### Step 3: Equating
+
+Given: CP of 20 articles = SP of X articles
+
+$$
+20 = 1.25X
+$$
+
+---
+
+### Step 4: Solve
+
+$$
+X = \frac{20}{1.25} = \frac{200}{12.5} = 16
+$$
+
+✅ Correct Answer: **b) 16**
 
 ---
 
